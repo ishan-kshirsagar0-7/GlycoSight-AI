@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+google-genai
+python-dotenv
+pydicom
+pillow
+supabase
+pydantic
+langgraph
+python-multipart
+numpy

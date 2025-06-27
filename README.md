@@ -13,9 +13,6 @@
 ## 🚀 Live Application & Demo
 
 - **Live Web App:** **[https://glycosight-ai.vercel.app/](https://glycosight-ai.vercel.app/)**
-- **Video Demo:** A full demonstration video is attached below:
-
-https://github.com/user-attachments/assets/3a2657e8-5495-46ee-ba0f-9f016c89f9d1
 
 ---
 
